@@ -141,3 +141,5 @@ $\boxed{\sum_{k\in\mathbb Z}\left(\binom{n}{\frac{n+b-a+2kL}{2}}-
 ## 関連問題
 
 JJMO 2026 7問目など
+## 参考記事
+https://www.reddit.com/r/statistics/comments/9um1fx/can_someone_explain_to_me_simple_random_walk_and/?tl=ja
