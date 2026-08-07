@@ -176,4 +176,3 @@ $(f*g)(n)=\sum_{d\mid n}f(d)g\left(\frac{n}{d}\right)$
 
 この逆元がメビウス関数である。
 
----
