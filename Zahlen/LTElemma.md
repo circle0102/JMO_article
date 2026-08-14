@@ -32,15 +32,15 @@ $x-y\equiv 0\pmod{2}$ かつ $n$ が奇数ならば
 
 任意の $p$ について、
 
-$x-y\equiv 0\pmod{p}$ かつ、$n$ が $p$ で割り切れないならば
+$x-y\equiv 0\pmod{p}$ かつ $n$ が $p$ で割り切れないならば
 　 $\nu_p(x^n-y^n)=\nu_p(x-y).$
 
-$x+y\equiv 0\pmod{p}$ かつ、$n$ が $p$ で割り切れないかつ、$n$ が奇数ならば
+$x+y\equiv 0\pmod{p}$ かつ $n$が $p$ で割り切れないかつ、 $n$ が奇数ならば
 　 $\nu_p(x^n+y^n)=\nu_p(x+y).$
 
 $p=2$ の場合の系には以下の様なものがある。
 
-$x-y\equiv 0\pmod{4}$ で、$x,y$ がともに奇数ならば、 $ \nu_2(x+y)=1$ で、
+$x-y\equiv 0\pmod{4}$ で $x,y$ がともに奇数ならば $\nu_2(x+y)=1$ で、
 $\nu_2(x^n-y^n)=\nu_2(x-y)+\nu_2(n).$
 
 $x+y\equiv 0\pmod{2}$ かつ $n$ が偶数のとき、
