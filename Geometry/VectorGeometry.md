@@ -24,10 +24,10 @@ $\mathbf{u}\cdot\mathbf{v}=|\mathbf{u}||\mathbf{v}|\cos\theta$
 
 したがって、
 
-- 直交：$\mathbf{u}\cdot\mathbf{v}=0$
-- 鋭角：$\mathbf{u}\cdot\mathbf{v}>0$
-- 鈍角：$\mathbf{u}\cdot\mathbf{v}<0$
-- 平行：$\mathbf{u}=k\mathbf{v}$
+- 直交： $\mathbf{u}\cdot\mathbf{v}=0$
+- 鋭角： $\mathbf{u}\cdot\mathbf{v}>0$
+- 鈍角： $\mathbf{u}\cdot\mathbf{v}<0$
+- 平行： $\mathbf{u}=k\mathbf{v}$
 
 ### 余弦定理
 
