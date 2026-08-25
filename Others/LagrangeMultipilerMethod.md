@@ -20,7 +20,7 @@ $L(\lambda,\mu,\ldots,x,y,\ldots)=f-\lambda g_1-\mu g_2-\cdots$
 
 $\frac{\partial L}{\partial x}=\frac{\partial L}{\partial y}=\cdots=\frac{\partial L}{\partial \lambda}=\frac{\partial L}{\partial \mu}=\cdots=0$
 
-ここで、$\frac{\partial L}{\partial x}$ は $L$ に対する $x$ についての偏微分である。
+ここで、 $\frac{\partial L}{\partial x}$ は $L$ に対する $x$ についての偏微分である。
 
 偏微分を行う際には、微分する変数以外の変数は定数として扱う。
 
