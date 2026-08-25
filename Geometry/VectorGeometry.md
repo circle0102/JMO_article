@@ -24,7 +24,7 @@ $\mathbf{u}\cdot\mathbf{v}=|\mathbf{u}||\mathbf{v}|\cos\theta$
 
 $\mathbf{u}=(a_1,a_2), \mathbf{v}=(b_1,b_2)$とした時、
 
-$\mathbf{u}\cdot\mathbf{v}=a_1b_1+a_2b_2
+$\mathbf{u}\cdot\mathbf{v}=a_1b_1+a_2b_2$
 
 したがって、
 
