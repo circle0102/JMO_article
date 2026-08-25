@@ -76,7 +76,7 @@ $\frac{\partial L}{\partial y}=zx-\lambda-\mu(x+z)=0$
 
 $\frac{\partial L}{\partial z}=xy-\lambda-\mu(x+y)=0$
 
-また、$\lambda,\mu$ について偏微分すると、
+また、 $\lambda,\mu$ について偏微分すると、
 
 $\frac{\partial L}{\partial \lambda}=-(x+y+z-10)=0$
 
