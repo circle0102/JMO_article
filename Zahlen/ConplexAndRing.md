@@ -69,3 +69,7 @@ UFDでは既約元と素元は一致する。
 
 ###　包含関係
 可換環 ⊃ 整域 ⊃ 整閉整域 ⊃ 一意分解環 ⊃ 単項イデアル整域 ⊃ ユークリッド環 ⊃ 体 ⊃ 有限体
+
+---
+参考文献：https://x.com/tina_algebra/status/2089600586673217690
+　　　　　https://app.notion.com/p/3c0a0f4ff30180c2bc56c6ef9de9f904?source=copy_link
